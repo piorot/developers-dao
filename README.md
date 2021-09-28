@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This is very simple project with TON of things to improve.
+This is very simple PoC project with TON of things to improve.
 
 
 ## Data Flow
 
-It first acks user to authorize providing its wallet address, than it aska hardcoded contract address for number of tokens the authenticated user has. Knowing the number of tokens it gathers and presents data for each token.
+It first asks user to authorize and achieves its wallet address, than it asaks remote node using hardcoded contract address for number of tokens the authenticated user has. Knowing the number of tokens it gathers and presents data for each token, incl. image.
